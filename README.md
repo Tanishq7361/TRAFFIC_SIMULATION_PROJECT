@@ -78,13 +78,13 @@ events.txt
 ### Compile:
 
 ```bash
-gcc traffic_sim.c -o traffic_sim -lpthread
+gcc traffic_controller.c -o traffic -pthread
 ```
 
 ### Run:
 
 ```bash
-./traffic_sim
+./traffic
 ```
 
 Output will appear in:
