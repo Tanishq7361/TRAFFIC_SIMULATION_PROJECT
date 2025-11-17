@@ -71,7 +71,7 @@ events.txt
 
 ```
 .
-├── traffic_sim.c      # Main simulation source code
+├── traffic_controller.c      # Main simulation source code
 ├── events.txt         # Input event script
 ├── traffic_log.txt    # Auto-generated log output
 └── README.markdown    # Documentation
